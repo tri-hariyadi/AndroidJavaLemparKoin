@@ -18,7 +18,6 @@ git clone https://github.com/tri-hariyadi/project-pertemuan-3.git
 - Aplikasi menggunakan gradle:4.1.2
 - Download beberapa file yang dibutuhkan, Android Studio akan memberikan notifikasi jika membutuhkan beberapa tambahan data
 - Run aplikasi dengan Android Studio ke Emulator yang ada, minimal SDK API 21
-<br/>
 
 ## Berikut hasil running aplikasi lempar koin di emulator android:
 
