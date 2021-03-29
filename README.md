@@ -7,4 +7,4 @@ Berikut adalah aplikasi lempar koin di project pertemuan-3, aplikasi ini bekerja
 
 - [Splash Screen] - Berikut adalah tampilan splash screen, pada screen ini hanya menunjukkan logo aplikasi
 yang diberi animasi rotate agar menarik, dan juga ada text game lempar koin dalam waktu 2500 milidetik splash screen ini nanti akan berpindah ke menu utama aplikasi.
-<img src="https://raw.githubusercontent.com/tri-hariyadi/project-pertemuan-3/master/images/ss1.png" width="200">
+- <img src="https://raw.githubusercontent.com/tri-hariyadi/project-pertemuan-3/master/images/ss1.png" width="200">
