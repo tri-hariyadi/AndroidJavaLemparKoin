@@ -12,12 +12,12 @@ git clone https://github.com/tri-hariyadi/project-pertemuan-3.git
 ## Deployment
 - Download Android Studio 4.1.2
 - Download the SDK's
-- Install SDK terbaru API 11
+- Install SDK terbaru API 30
 - Pilih Import Project
 - Pilih Directori dimana anda clone Project
 - Aplikasi menggunakan gradle:4.1.2
 - Download beberapa file yang dibutuhkan, Android Studio akan memberikan notifikasi jika membutuhkan beberapa tambahan data
-- Run aplikasi dengan Android Studio ke Emulator yang ada, minimal SDK API 21
+- Run aplikasi dengan Android Studio ke Emulator yang ada, minimal SDK API 21 Android 5.0 (Lollipop)
 
 ## Berikut hasil running aplikasi lempar koin di emulator android:
 
